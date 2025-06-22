@@ -1,16 +1,16 @@
-## Hi, I'm Elliot! 😸
+## 😸 Hi, I'm Elliot!
 
-### TL;DR 🥱
+### 🥱 TL;DR
 
 DS Stdnt + NSF SINDy Rsrch Asst + Intrn @ MedPro + Cmptr Nrd
 
-### More Details 🗣️
+### 🗣️ More Details
 
 - Studying B.S. Data Science & Applied Statistics (minors: ctuarial Science, CS, Mathematics) at Purdue University Fort Wayne
 - Researching dynamical systems & sparse identification (SINDy) for an NSF-funded methods project
 - Analyzing messy data and developing data stories for full-funnel marketing data at MedPro Group
 
-### Recent Personal Projects 🙀
+### 🙀 Recent Personal Projects
 
 Home-Lab on a 2010 Mac Pro (Linux Mint)
 
