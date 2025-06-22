@@ -10,7 +10,7 @@ DS Stdnt + NSF SINDy Rsrch Asst + Intrn @ MedPro + Cmptr Nrd
 - Researching dynamical systems & sparse identification (SINDy) for an NSF-funded methods project
 - Analyzing messy data and developing data stories for full-funnel marketing data at MedPro Group
 
-### 🙀 Recent Personal Projects
+### 😁 Recent Personal Projects
 
 Home-Lab on a 2010 Mac Pro (Linux Mint)
 
