@@ -6,7 +6,7 @@ DS Stdnt + NSF SINDy Rsrch Asst + Intrn @ MedPro + Cmptr Nrd
 
 ### 🗣️ More Details
 
-- Studying B.S. Data Science & Applied Statistics (minors: actuarial Science, CS, Mathematics) at Purdue University Fort Wayne
+- Studying B.S. Data Science & Applied Statistics (minors: Actuarial Science, CS, Mathematics) at Purdue University Fort Wayne
 - Researching dynamical systems & sparse identification (SINDy) for an NSF-funded methods project
 - Analyzing messy data and developing data stories for full-funnel marketing data at MedPro Group
 
