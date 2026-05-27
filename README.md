@@ -6,4 +6,4 @@ Outside of research, I like building things that solve problems I have: a [Pi-ho
 
 Currently reading: *Gravity's Rainbow* (Thomas Pynchon)
 
-Last read: *The Sailor Who Fell from Grace with the Sea* (Yukio Mishima), *Lolita* (Vladimir Nabokov), *Stories of Your Life and Others* (Ted Chiang) *Notes from Underground* (Fyodor Dostoevsky), *Exhalation: Stories* (Ted Chiang)
+Previously read: *The Sailor Who Fell from Grace with the Sea* (Yukio Mishima), *Lolita* (Vladimir Nabokov), *Stories of Your Life and Others* (Ted Chiang) *Notes from Underground* (Fyodor Dostoevsky), *Exhalation: Stories* (Ted Chiang)
