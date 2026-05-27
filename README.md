@@ -4,6 +4,6 @@ Statistics major at Purdue Fort Wayne. I work on NSF-funded research applying SI
 
 Outside of research, I like building things that solve problems I have: a [Pi-hole DNS server](https://github.com/elliotisnt/dietpi-pihole) on a repurposed school laptop, a containerized media stack on a a 2010 Mac Pro I rescued from a recycling drive at my dad's office.
 
-Currently reading: *Kafka on the Shore* (Haruki Murakami)
+Currently reading: *Gravity's Rainbow* (Thomas Pynchon)
 
-Last read: *Notes from Underground* (Fyodor Dostoevsky, translated by Michael R. Katz), *Exhalation: Stories* (Ted Chiang)
+Last read: *The Sailor Who Fell from Grace with the Sea* (Yukio Mishima), *Lolita* (Vladimir Nabokov), *Stories of Your Life and Others* (Ted Chiang) *Notes from Underground* (Fyodor Dostoevsky), *Exhalation: Stories* (Ted Chiang)
